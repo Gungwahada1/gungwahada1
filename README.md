@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gungwahada1" alt="gungwahada1" /></a> </p> -->
 
-- 🔭 I’m currently working on **Remote Project**
+<!-- - 🔭 I’m currently working on **Remote Project**
 
 - 🌱 I’m currently learning **Flask, Go, Google Cloud Platform (GCP)**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gungwahada1@gmail.com**
 
-- ⚡ Fun fact **I love ngoding with a cup of coffee**
+- ⚡ Fun fact **I love ngoding with a cup of coffee** -->
 
 <div align="center">
 <h3 align="left">Connect with me:</h3>
