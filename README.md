@@ -58,7 +58,7 @@
 
 ---
 
-<div>
+<div align="center">
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gungwahada1&theme=highcontrast&hide_border=false&border_radius=20" alt="gungwahada1" />
   </p>
