@@ -54,18 +54,24 @@
     </p>
 </div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gungwahada1&show_icons=true&locale=en&layout=compact" alt="gungwahada1" />
-</p>
+<div>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gungwahada1&show_icons=true&locale=en&layout=compact" alt="gungwahada1" />
+  </p>
+</div>
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gungwahada1&show_icons=true&locale=en" alt="gungwahada1" />
-</p>
+<div>
+  <p>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gungwahada1&show_icons=true&locale=en" alt="gungwahada1" />
+  </p>
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gungwahada1&" alt="gungwahada1" />
-</p>
+<div>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gungwahada1&" alt="gungwahada1" />
+  </p>
+</div>
 
 <h3 align="center">Support Me</h3>
 <p align="center">
