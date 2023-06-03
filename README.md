@@ -68,8 +68,10 @@
 </p>
 
 <h3 align="center">Support Me</h3>
-<p>
-<a href="https://www.buymeacoffee.com/gungwahada1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gungwahada1" /></a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/gungwahada1">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gungwahada1" />
+  </a>
 </p>
 <br>
 <br>
