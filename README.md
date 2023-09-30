@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gungwah</h1>
-<h3 align="center">A UI/UX Designer, Backend Developer, and Cloud Engineer from Bali, Indonesia</h3>
+<h3 align="center">A Bangkit 2023 Graduate, Web Developer, IoT & Back-end Developer, and Graphic Designer from Bali, Indonesia</h3>
 
 ---
 
